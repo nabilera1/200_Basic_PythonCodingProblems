@@ -1,2 +1,6 @@
-# 100_Basic_PythonCodingProblems
-100 Basic Python Coding Problems: Start With Just a Google Account
+# 구글 계정 하나로 시작하는 파이썬 200제
+
+구글 계정 하나로, 설치 없이, 브라우저에서 바로 푸는 파이썬 200문제.
+기초 100제 · 응용 50제 · 정보올림피아드(KOI 고등부 수준) 50제로 이루어져 있으며, 모든 문제는 Google Colab에서 자동 채점됩니다.
+
+저자: 김동균
